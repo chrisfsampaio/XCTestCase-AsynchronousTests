@@ -8,6 +8,6 @@ Pod::Spec.new do |s|
   s.source   = { :git => 'https://github.com/chrisfsampaio/XCTestCase-AsynchronousTest.git' }
   s.source_files = 'XCTestCase-AsynchronousTests'
   s.platform = :ios
-  s.ios.deployment_target = '7.0'
+  s.ios.deployment_target = '6.0'
   s.requires_arc = true
 end
