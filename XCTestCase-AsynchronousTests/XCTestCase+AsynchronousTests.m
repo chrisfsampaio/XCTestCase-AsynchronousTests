@@ -34,5 +34,5 @@ static BOOL hasEntered;
         XCTFail(@"Return of async call never reached");
     }
 }
-`
+
 @end
